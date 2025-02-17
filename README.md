@@ -37,6 +37,7 @@
       <i class="fa fa-github" aria-hidden="true"></i>
       <a href="https://github.com/Chan1605?tab=repositories">Repositories</a> 
       <p>[GIGDC](https://youtube.com/embed/UDCFjSiuVYs)
+        <a href="https://youtube.com/embed/UDCFjSiuVYs">GIGDC</a>
       </p>
     </section>
   </article>
