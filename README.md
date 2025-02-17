@@ -36,7 +36,7 @@
       <h2>PORTFOLIO</h2>
       <i class="fa fa-github" aria-hidden="true"></i>
       <a href="https://github.com/Chan1605?tab=repositories">Repositories</a>  
-      (https:www.youtube.com/embed/UDCFjSiuVYs)]
+      <a href="https:www.youtube.com/embed/UDCFjSiuVYs">Test</a>
     </section>
   </article>
 </main>
