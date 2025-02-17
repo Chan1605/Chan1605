@@ -1,9 +1,8 @@
-# Github Readme Generator
-### Hi there 👋.
+# JongChanHome
 
 <header id="header">
   <!-- 이력서 헤더 : 이름과 타이틀 작성 -->
-  <h1>KimJongChanHome</h1>
+  <h1>JongChanKim</h1>
   <hr>
   유저의 니즈를 파악하고 소통의 중점을 두는 개발자가 되겠습니다.
   <hr>
