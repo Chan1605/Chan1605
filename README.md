@@ -35,7 +35,7 @@
     <section>
       <h2>PORT FOLIO</h2>
       <i class="fa fa-github" aria-hidden="true"></i>
-      <a href="https://github.com/Chan1605?tab=repositories">Github</a>
+      <a href="https://github.com/Chan1605?tab=repositories">Git hub Exe파일 바로가기</a>
     </section>
   </article>
 </main>
