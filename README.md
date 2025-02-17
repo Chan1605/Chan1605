@@ -35,9 +35,8 @@
     <section>
       <h2>PORTFOLIO</h2>
       <i class="fa fa-github" aria-hidden="true"></i>
-      <a href="https://github.com/Chan1605?tab=repositories">Repositories</a>
-      <a href=" https://www.youtube.com/embed/UDCFjSiuVYs">GIGDC</a>
-   [![Video Label](https:www.youtube.com/embed/UDCFjSiuVYs)]
+      <a href="https://github.com/Chan1605?tab=repositories">Repositories</a>  
+      (https:www.youtube.com/embed/UDCFjSiuVYs)]
     </section>
   </article>
 </main>
