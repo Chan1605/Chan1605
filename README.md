@@ -24,11 +24,7 @@
       <h2>SKILLS</h2>
       <!-- 자신이 잘할 수 있는 분야 -->
       VisualStudio, Unity, Unreal,C++, C#
-     </section>
-     <section>
-      <h2>EDUCATION</h2>
-      <!-- 학력 -->
-    </section>            
+     </section> 
   </article>
   <article id="mainRight">
     <section>
@@ -37,8 +33,9 @@
       유저의 니즈를 파악하고 소통의 중점을 두는 개발자.
     </section>
     <section>
-      <h2>WORK EXPERIENCE</h2>
-      <!-- 경력 작성 -->
+      <h2>PORT FOLIO</h2>
+      <i class="fa fa-github" aria-hidden="true"></i>
+      <a href="https://github.com/Chan1605?tab=repositories">Github</a>
     </section>
   </article>
 </main>
