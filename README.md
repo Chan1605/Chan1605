@@ -1,9 +1,7 @@
 <header id="header">
   <!-- 이력서 헤더 : 이름과 타이틀 작성 -->
   <h1>JongChanKim</h1>
-  <hr>
-  
-  <hr>
+  <hr><hr>
 </header>
 
 <main>
