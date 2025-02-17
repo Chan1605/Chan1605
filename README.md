@@ -38,6 +38,11 @@
       <a href="https://github.com/Chan1605?tab=repositories">Repositories</a> 
       <p><a href="https://youtube.com/embed/UDCFjSiuVYs">GIGDC</a>
       </p>
+      <p><a href="https://www.youtube.com/embed/MvEQOiWDvIQ">NeedTurretHere</a>
+      </p>
+      <p>
+        href="https://www.youtube.com/embed/SlehHQ2Nek8">SummonerForest</a>
+      </p>
     </section>
   </article>
 </main>
