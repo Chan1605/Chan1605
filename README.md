@@ -23,6 +23,7 @@
     <section>
       <h2>SKILLS</h2>
       <!-- 자신이 잘할 수 있는 분야 -->
+      VisualStudio, Unity, Unreal,C++, C#
      </section>
      <section>
       <h2>EDUCATION</h2>
