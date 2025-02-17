@@ -33,9 +33,9 @@
       유저의 니즈를 파악하고 소통의 중점을 두는 개발자.
     </section>
     <section>
-      <h2>PORT FOLIO</h2>
+      <h2>PORTFOLIO</h2>
       <i class="fa fa-github" aria-hidden="true"></i>
-      <a href="https://github.com/Chan1605?tab=repositories">Git hub Exe파일 바로가기</a>
+      <a href="https://github.com/Chan1605?tab=repositories">Repositories</a>
     </section>
   </article>
 </main>
