@@ -13,19 +13,11 @@
       <!-- 소셜 미디어를 비롯한 연락처 정보 -->
       <p>
         <i class="fa fa-envelope" aria-hidden="true"></i>
-        <a href="mailto:funcom@gmail.com">funcom@gmail.com</a>
-      </p>
-      <p>
-        <i class="fa fa-twitter" aria-hidden="true"></i>
-        <a href="트위터 연결 주소">Twiter</a>
-      </p>
-      <p>
-        <i class="fa fa-facebook" aria-hidden="true"></i>
-        <a href="페이스북 연결 주소">Facebook</a>
+        <a href="mailto:qkqhoe@naver.com.com">qkqhoe@naver.com</a>
       </p>
       <p>
         <i class="fa fa-github" aria-hidden="true"></i>
-        <a href="https://www.github.com/peacein">Github</a>
+        <a href="https://www.github.com/Chan1605">Github</a>
       </p>      
     </section>
     <section>
