@@ -1,8 +1,8 @@
 <header id="header">
 <!-- 이력서 헤더 : 이름과 타이틀 작성 -->
-  <h1>이름</h1>
+  <h1>JongChanKim</h1>
   <hr>
-    
+    프론트 클라이언트
   <hr>
 </header>
 
