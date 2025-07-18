@@ -6,12 +6,6 @@
 </header>
 
 <!-- 뱃지 -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/language-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/status-Developing-yellow?style=for-the-badge"/>
-</p>
-
 <h1 align="center">👋 JongChan Kim</h1>
 <p align="center"><b>🎮 게임 클라이언트 개발자 (Game Developer)</b></p>
 <hr>
@@ -26,8 +20,11 @@
       </p>      
     </section>
     <section>
-      <h2>SKILLS</h2>
-      VisualStudio, Unity, Unreal,C++, C#
+      <h2>SKILLS</h2>      
+  <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white"/> <p>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <p>
+  <img src="https://img.shields.io/badge/-Developing-yellow?style=for-the-badge"/> </p>
+</p>    
      </section> 
   </article>
   <article id="mainRight">
