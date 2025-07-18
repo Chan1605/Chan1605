@@ -1,21 +1,28 @@
-<header id="header">
+<!-- <header id="header">
   <h1>JongChanKim</h1>
   <hr>
     게임 클라이언트(Game Development)
   <hr>
 </header>
 
+<!-- 뱃지 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/language-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/status-Developing-yellow?style=for-the-badge"/>
+</p>
+
+<h1 align="center">👋 JongChan Kim</h1>
+<p align="center"><b>🎮 게임 클라이언트 개발자 (Game Developer)</b></p>
+<hr>
+
 <main>
   <article id="mainLeft">
     <section>
-      <h2>CONTACT</h2>
+      <h2>📬 CONTACT</h2>
       <p>
-        <i class="fa fa-envelope" aria-hidden="true"></i>
-        <a href="mailto:qkqhoe@naver.com.com">qkqhoe@naver.com</a>
-      </p>
-      <p>
-        <i class="fa fa-github" aria-hidden="true"></i>
-        <a href="https://www.github.com/Chan1605">Github</a>
+        - 📧 Email: <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:qkqhoe@naver.com.com">qkqhoe@naver.com</a> <p>
+        - 💻 Github: https://github.com/Chan1605
       </p>      
     </section>
     <section>
