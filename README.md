@@ -33,7 +33,7 @@
       유저의 니즈를 파악하고 소통의 중점을 두는 개발자.
     </section>
     <section>
-      <h2>PORTFOLIO</h2>
+      <h2>📂 PORTFOLIO</h2>
       <i class="fa fa-github" aria-hidden="true"></i>
       <a href="https://github.com/Chan1605?tab=repositories">Repositories</a> 
       <p></p>
@@ -45,7 +45,13 @@
       </p>
        <p><a href="https://drive.google.com/file/d/1As4TtGGFFEUW4Lsp4gfaKbw4A5it5-iG/view?usp=drive_link">ChickenRoyale(Window)</a>
       </p> 
-       <p><a href="https://drive.google.com/file/d/18TPozFCqR7o2zRArwAGxigz77zB_Qn92/view?usp=drive_link">ChickenRoyale(Mac)</a>
+       <p><a href="https://drive.google.com/file/d/18TPozFCqR7o2zRArwAGxigz77zB_Qn92/view?usp=drive_link">ChickenRoyale(Mac)</a> <p></p>
+      | 🔗 GIGDC            | [🔗 YouTube 영상](https://youtube.com/embed/UDCFjSiuVYs) | <p>
+      | 🔗 Need Turret Here | [🔗 YouTube 영상](https://www.youtube.com/embed/MvEQOiWDvIQ) |<p>
+      | 🔗 Summoner Forest  | [🔗 YouTube 영상](https://www.youtube.com/embed/SlehHQ2Nek8) |<p>
+      | 🐔 Chicken Royale (Windows) | [🔗 다운로드](https://drive.google.com/file/d/1As4TtGGFFEUW4Lsp4gfaKbw4A5it5-iG/view?usp=drive_link) |<p>
+      | 🐔 Chicken Royale (Mac)     | [🔗 다운로드](https://drive.google.com/file/d/18TPozFCqR7o2zRArwAGxigz77zB_Qn92/view?usp=drive_link) |<p>
+      | 📁 전체 레포지토리 | [🔗 Repositories](https://github.com/Chan1605?tab=repositories) |<p></p>
       </p> 
     </section>
   </article>
