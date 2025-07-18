@@ -7,7 +7,10 @@
 
 <!-- 뱃지 -->
 <h1 align="center">👋 JongChan Kim</h1>
-<p align="center"><b>🎮 게임 클라이언트 개발자 (Game Developer)</b></p>
+   <section>
+     <h2>👤 ABOUT</h2>
+      유저의 니즈를 파악하고 소통에 중점을 두는 게임 클라이언트 개발자입니다.      
+   </section>
 <hr>
 
 <main>
