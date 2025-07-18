@@ -32,10 +32,6 @@
   </article>
   <article id="mainRight">
     <section>
-     <h2>👤 ABOUT</h2>
-      유저의 니즈를 파악하고 소통에 중점을 두는 게임 클라이언트 개발자입니다.
-    </section>
-    <section>
       <h2>📂 PORTFOLIO</h2>
        <p></p>| 📁 전체 레포지토리 |<a href="https://github.com/Chan1605?tab=repositories">[🔗 Repositories]</a></p>
       | 🔗 GIGDC            | <a href="https://youtube.com/embed/UDCFjSiuVYs">[🔗 YouTube 영상]</a> <p>
