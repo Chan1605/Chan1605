@@ -17,7 +17,8 @@
     <section>
       <h2>🛠 SKILLS</h2>      
   <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white"/> <p>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <p>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/PlayFab-FF6C37?style=for-the-badge"/>
+<p>
 
 
 </p>    
