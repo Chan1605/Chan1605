@@ -23,7 +23,7 @@
       </p>      
     </section>
     <section>
-      <h2>SKILLS</h2>      
+      <h2>🛠 SKILLS</h2>      
   <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white"/> <p>
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <p>
   <img src="https://img.shields.io/badge/-Developing-yellow?style=for-the-badge"/> </p>
