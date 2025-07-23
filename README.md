@@ -1,11 +1,3 @@
-<!-- <header id="header">
-  <h1>JongChanKim</h1>
-  <hr>
-    게임 클라이언트(Game Development)
-  <hr>
-</header>
-
-<!-- 뱃지 -->
 <h1 align="center">👋 JongChan Kim</h1>
    <section>
      <h2>👤 ABOUT</h2>
@@ -25,8 +17,9 @@
     <section>
       <h2>🛠 SKILLS</h2>      
   <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white"/> <p>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <p>
-  <img src="https://img.shields.io/badge/-Developing-yellow?style=for-the-badge"/> </p>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <p>
+
+
 </p>    
      </section> 
   </article>
