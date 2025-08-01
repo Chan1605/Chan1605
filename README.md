@@ -31,7 +31,7 @@
       | 🔗 GIGDC            | <a href="https://youtube.com/embed/UDCFjSiuVYs">[🔗 YouTube 영상]</a> <p>
       <p></p>| 🔗 Need Turret Here | <a href="https://www.youtube.com/embed/MvEQOiWDvIQ">[🔗 YouTube 영상]</a> <p>
       <p></p>| 🔗 Summoner Forest  | <a href="https://www.youtube.com/embed/SlehHQ2Nek8">[🔗 YouTube 영상]</a> <p>
-       <p></p>|🔗 Chicken Royale  | <a href="https://youtu.be/cAq-W0X-D7M">[🔗 YouTube 영상]</a> <p>
+      <p></p>| 🔗 Chicken Royale  | <a href="https://youtu.be/cAq-W0X-D7M">[🔗 YouTube 영상]</a> <p>
       <p></p>| 🐔 Chicken Royale (Windows) | <a href="https://drive.google.com/file/d/1As4TtGGFFEUW4Lsp4gfaKbw4A5it5-iG/view?usp=drive_link">[🔗 구글드라이브 다운로드]</a><p>
       <p></p>| 🐔 Chicken Royale (Mac)     | <a href="https://drive.google.com/file/d/18TPozFCqR7o2zRArwAGxigz77zB_Qn92/view?usp=drive_link">[🔗 구글드라이브 다운로드]</a><p>     
       </p> 
