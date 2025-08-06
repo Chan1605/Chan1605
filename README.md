@@ -28,6 +28,7 @@
     <section>
       <h2>📂 PORTFOLIO</h2>
        <p></p>| 📁 전체 레포지토리 |<a href="https://github.com/Chan1605?tab=repositories">[🔗 Repositories]</a></p>
+       <p></p>| 🐔 Chicken Royale |<a href="https://github.com/Chan1605/Chicken-Royale">[🔗 Repositories]</a></p> 
       | 🔗 GIGDC            | <a href="https://youtube.com/embed/UDCFjSiuVYs">[🔗 YouTube 영상]</a> <p>
       <p></p>| 🔗 Need Turret Here | <a href="https://www.youtube.com/embed/MvEQOiWDvIQ">[🔗 YouTube 영상]</a> <p>
       <p></p>| 🔗 Summoner Forest  | <a href="https://www.youtube.com/embed/SlehHQ2Nek8">[🔗 YouTube 영상]</a> <p>
