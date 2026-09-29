@@ -61,8 +61,8 @@ Unity · C#으로 조작감과 게임 흐름이 자연스러운 게임을 만드
 
 | 프로젝트 | 소개 | 링크 |
 |---|---|---|
-| GIGDC | 한 줄 소개 | [🎬 영상](https://www.youtube.com/watch?v=UDCFjSiuVYs) |
-| Need Turret Here | 한 줄 소개 | [🎬 영상](https://www.youtube.com/watch?v=MvEQOiWDvIQ) |
+| GIGDC | 2D 횡스크롤 팀 프로젝트 | [🎬 영상](https://www.youtube.com/watch?v=UDCFjSiuVYs) |
+| Need Turret Here | 3D 타워디펜스 팀 프로젝트 | [🎬 영상](https://www.youtube.com/watch?v=MvEQOiWDvIQ) |
 
 <br/>
 
