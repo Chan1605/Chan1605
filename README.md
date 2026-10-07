@@ -35,7 +35,7 @@ Unity · C#으로 조작감과 게임 흐름이 자연스러운 게임을 만드
 - **ScriptableObject**로 적 스탯 45개 항목을 인스펙터에서 조정, 도달 불가 위치는 시간 제한 후 복귀해 NavMesh 경로 재계산 방지
 - NPC 대화 시스템, 라이팅 · 스카이박스 담당
 
-[📁 Repository](레포지토리_링크) · [🎬 플레이 영상](https://drive.google.com/file/d/1jy8kzmyJzCUdjQFjE6hJTXUDssYSgHic/view?usp=drive_link) · [📄 기술개발서 (PDF)](docs/BLACKOUT_EnemyAI_TechDoc.pdf)
+[📁 Repository](https://github.com/Chan1605/StealthActionGame_N) · [🎬 플레이 영상](https://drive.google.com/file/d/1jy8kzmyJzCUdjQFjE6hJTXUDssYSgHic/view?usp=drive_link) · [📄 기술개발서 (PDF)](docs/BLACKOUT_EnemyAI_TechDoc.pdf)
 
 <br/>
 
