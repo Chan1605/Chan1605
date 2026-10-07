@@ -46,7 +46,7 @@ Unity · C#으로 조작감과 게임 흐름이 자연스러운 게임을 만드
 - bool 플래그 기반 플레이어를 **열거형 상태 머신 + partial class** 구조로 리팩토링
 - 소울 파밍 → 세이브 포인트 생성 → 체크포인트 복원 루프, 이벤트 기반 튜토리얼 시스템
 
-[📁 Repository](https://github.com/Chan1605/Ori_style_platformer) · [📄 기술개발서 (PDF)](docs/Ori_TechDoc.pdf)
+[📁 Repository](https://github.com/Chan1605/Ori_style_platformer) ·[🎬 플레이 영상](https://drive.google.com/file/d/1eERrvVx9vkvWJPrnRWenEZG5UQG7Oirw/view?usp=drive_link) · [📄 기술개발서 (PDF)](docs/Ori_TechDoc.pdf)
 
 <br/>
 
