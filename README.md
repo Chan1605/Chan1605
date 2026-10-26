@@ -19,12 +19,24 @@ Unity · C#으로 조작감과 게임 흐름이 자연스러운 게임을 만드
 |---|---|
 | **Engine** | <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> |
 | **Language** | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> |
-| **Backend** | <img src="https://img.shields.io/badge/PlayFab-FF6C37?style=for-the-badge"/> |
+| **Network · Backend** | <img src="https://img.shields.io/badge/Mirror-4A90E2?style=for-the-badge"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/PlayFab-FF6C37?style=for-the-badge"/> |
 | **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/DOTween-8A2BE2?style=for-the-badge"/> |
 
 <br/>
 
 ## 📂 Projects
+
+### 🃏 Bluff Table · 4인 온라인 멀티플레이 카드 게임 (팀 프로젝트)
+> 카드로 블러핑하고 거짓말이 들키면 러시안 룰렛을 돌리는 *Liar's Bar* 모작 · 3인 팀 · Mirror · MariaDB · AWS · **담당: UI · 인게임 연출**
+
+- 서버가 결과 · 타이밍을 정하고 UI · 연출은 **이벤트만 구독**하는 구조로, 네 플레이어가 같은 장면을 같은 순서로 보도록 설계
+- LIAR 판정 · 리볼버 장전 · 룰렛 · 승리(커서를 따라가는 고개) 연출 재현, 원작 애니메이션 · 셰이더 이식을 **에디터 도구로 자동화**
+- MariaDB 연동 **전적 UI**(승률 · 칭호), 음성 채팅 대신 대사 번호만 주고받는 **퀵챗**, 한국어 / 영어 현지화
+- 통합 QA에서 네트워크 응답 순서로 생긴 손패 잠김, 해상도별 UI 틀어짐, 듀얼 모니터 커서 이탈 해결
+
+[📁 Repository](https://github.com/Chan1605/Bluff_table) · [🎬 소개 영상](https://drive.google.com/file/d/1tfH6swDd5QVY0sufP1ab8DT2HlPhxjSa/view?usp=drive_link) · [📄 기술개발서 (PDF)](docs/BluffTable_TechDoc.pdf)
+
+<br/>
 
 ### 🔦 BLACKOUT · 3D 스텔스 액션 (팀 프로젝트)
 > 낮에는 탈출 재료를 모으고, 밤에는 교도관을 제압하며 탈출하는 4인 팀 프로젝트 · **담당: 적 AI**
