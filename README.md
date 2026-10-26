@@ -4,7 +4,7 @@
 
 **유저의 니즈를 파악하고 소통에 중점을 두는 게임 클라이언트 개발자**
 
-Unity · C#으로 조작감과 게임 흐름이 자연스러운 게임을 만드는 데 관심이 있습니다.
+Unity · C#으로 조작감과 게임 흐름이 자연스러운 게임을 지향하며 개발합니다.
 
 <a href="mailto:qkqhoe@naver.com"><img src="https://img.shields.io/badge/Email-qkqhoe@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://github.com/Chan1605"><img src="https://img.shields.io/badge/GitHub-Chan1605-181717?style=flat-square&logo=github&logoColor=white"/></a>
